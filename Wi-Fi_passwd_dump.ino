@@ -44,6 +44,5 @@ void loop() {
   digitalWrite(1, HIGH); //turn on led when program finishes
   DigiKeyboard.delay(90000);
   digitalWrite(1, LOW); 
-  DigiKeyboard.delay(5000);
-  
+  DigiKeyboard.delay(5000); 
 }
