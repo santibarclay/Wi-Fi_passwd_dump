@@ -1,5 +1,5 @@
 # Wi-Fi_passwd_dump
-Arduino Usb Attiny85 Digispark rubber ducky para robar contraseñas de Wi-Fi guardadas en Windows
+Arduino Usb Attiny85 Digispark rubber ducky para extraer contraseñas de Wi-Fi guardadas en Windows
 
 1. Obtener una placa de desarrollo Arduino Usb Attiny85 Digispark
 2. Descargar Arduino IDE
